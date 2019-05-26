@@ -1,5 +1,5 @@
-# Petroleum-Engineering-Rock-Mechanics
-Homework of Rock Mechanics
+
+% Homework of Rock Mechanics
 % WITHIN MATLAB
 clear all;
 clc;
